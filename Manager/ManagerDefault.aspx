@@ -1,0 +1,83 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="ManagerDefault.aspx.cs" Inherits="Manager_ManagerDefault" StylesheetTheme="MyThemes" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <title></title>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+    
+    </div>
+</body>
+
+<body>
+<!DOCTYPE html>
+<html>
+<style>
+	
+</style>
+<head>
+	<link rel="stylesheet" type="text/css" href="../css/reset.css"/>
+<link rel="stylesheet" type="text/css" href="../css/index22copy.css"/>
+	<meta charset='utf-8'>
+	<title>我的asp网站</title>
+</head>
+<body>
+	<div id="uperatama">
+	<a href="#a01">ANITAMA</a>
+	<input type="text" class="aa" />
+	<input type="button" value="搜索">
+	<a href="Manager/Login.aspx"><button id="denglu" type="button">登陆</asp:HyperLink></button></a>
+    <a href="Register.aspx"><button id="zhuce"type="button">注册</button></a>
+    <a href="Manager/ManagerDefault.aspx"><button id="bianji"type="button">编辑</button></a>
+    </div>
+	<div id="atama">
+		<a name="a01" href="#"><img src="../img/pick me up.jpg" alt="" id="pick"></a>
+		<ul id="hav">
+        <li><a href="../Default.aspx">首页</a></li>
+        <li><a href="../NewsMain.aspx">新闻</a></li>
+           <li><a href="../zhuanti.aspx">专题</a></li>
+        <li><a href="../aboutMe.aspx">站长页</a></li>
+</ul>
+	</div>
+	
+    <br />
+    
+       <div align=center >
+
+
+    </div>
+</div>
+
+<div align=center>
+<asp:Button ID="Button1" runat="server" Text="发布新闻" Height="106px" 
+        Width="399px" BorderColor="#8080FF" BorderWidth=10px Font-Size=X-Large 
+        Font-Bold=true onclick="Button1_Click1"  />
+</div>
+<br />
+<div align=center>
+<asp:Button ID="Button2" runat="server" Text="管理新闻" Height="106px" 
+        Width="399px" BorderColor="#8080FF" BorderWidth=10px Font-Size=X-Large 
+        Font-Bold=true onclick="Button2_Click"  />
+</div>
+    
+
+    <div id="footer">
+	<ul>
+		<li><a href="#">Bangumi</li>
+		<li><a href="#">BiliBili</li>
+		<li><a href="#">Acfun</li>
+		<li><a href="#">Stage1</li>
+		<li><a href="#">Comic Walker</li>
+	</ul>
+	<address>&copy;2018-8102 天下第一武道大会七月名单 http://www.nianzaogao.com wryyyyyyyyyyyyyyyyyy</address>
+
+</div>
+</body>
+</html>
+</body>
+    </form>
+</html>

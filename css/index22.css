@@ -1,0 +1,140 @@
+.subtitle{
+	height:37px;
+	background:gray url(./index_main_top_bg.gif);
+}
+.subtitle img{
+	float: left;
+	margin: 5px 0px 0px 5px;
+}
+.subtitle h1{
+	float: left;
+	font-size: 16px;
+	font-family: '黑体',宋体,微软雅黑；
+}
+.subtitle a{
+	float: right;
+	font-size: 12px;
+	float: right;
+
+}
+	#hav li{
+		width: 90px;
+		float: left;
+		margin:200px 0px 0px 300px;
+		background: grey;
+		position:left 200px;
+	}
+	#hav a{
+		font-size: 20px;
+		font-family: '微软雅黑';
+		color: black;
+        display: block;
+		width: 90px;
+		height: 37px;
+		text-align:center;
+		font-variant: center;
+	}
+	#hav a:hover{
+		color: white;
+		background: url(./nav_on.gif);
+	}
+
+#nav{
+	background: green;
+	float: left;
+	width: 1082px;
+	height: 100px;
+	margin-top: 185px;
+	margin-right: 0px;
+	margin-left: 261px;
+}
+#zhuce{
+	margin-left: 30px;
+	background-color: rgb(135,206,250);
+}
+#denglu{
+	margin-left: 500px;
+		background-color: rgb(135,206,250);
+}
+
+.aa{width:200px; height:20px; boder:solid 1px #f00;margin-left: 600px;}
+a{ text-decoration: none;}
+body{
+	background:green;
+	background-image: url(anitamaver.png);
+}
+#uperatama{
+
+	height: 35px;
+	background-color: rgb(245,245,245);
+	font-family: "Brandish";
+	font-size: 20px;
+}
+#uperatama a:link{
+	color: black;
+}
+#uperatama a:visited{
+	color: black;
+}
+#uperatama a:hover{
+	color: red;
+}
+#uperatama a:link{
+	color: black;
+}
+    #atama{
+    	width: 1600px;
+    	height: 300px;
+    	margin: 0px auto;
+    	   	background:green;
+    	background-image: url(index.jpg);
+    	background-position: center top;	
+    }
+	#container{
+		width: 1080px;
+		margin-right: auto;
+		margin-left: auto;
+		background: gray;
+	}
+	#header{
+		height: 120px;
+		background: pink;
+	}
+	#main{
+		height: 600px;
+		background: green;
+	}
+	#lside{
+		width: 700px;
+		float: left;
+		height: 600px;
+		background: yellow;
+	}
+	.four{
+		width: 300px;
+		height: 260px;
+		background: white;
+		margin: 10px;
+		float: left;
+		padding: 10px;
+	}
+	.four a{
+	color:#888;
+}
+.four a:visited{
+	color: #808080;
+}
+.four a:hover{
+	color: ##FF832C
+}
+	#rside{
+		width: 380px;
+		float: right;
+		height: 600px;
+		background: purple;
+
+	}
+	#footer{
+		height: 120px;
+		background: blue;
+	}

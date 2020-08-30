@@ -1,0 +1,6 @@
+﻿<asp:TextBox  runat="server" Width="103px" BorderColor="#8080FF" 
+ BorderStyle="Solid" BorderWidth="1px" />
+<asp:Login   runat="server" Width="1500px" BorderColor="#8080FF"
+BorderStyle="Solid" BorderWidth="10px" BackColor="#eeeeee" SkinId="MyLogintest"  />
+<asp:CreateUserWizard   runat="server" Width="1500px" BorderColor="#8080FF"
+BorderStyle="Solid" BorderWidth="10px" BackColor="#eeeeee" SkinId="MyRegister"  />

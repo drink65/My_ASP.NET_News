@@ -1,0 +1,50 @@
+﻿body
+{
+    
+}
+.WaterFontBg
+{
+	background-color: Gray;
+}
+.BigText
+{
+    font-family:本墨剪字;
+    font-size:25px;
+}
+.BigText2
+{
+    font-family:本墨剪字;
+    font-size:25px;
+     border-width:15px;
+     padding:10px;
+     width:800px;
+     background-color:#eeeeee;
+     border-color:Aqua;
+     text-align: center;
+}
+.BigButton
+{
+    font-family:本墨剪字;
+    font-size:25px;
+     border-width:15px;
+     padding:10px;
+     width:800px;
+     background-color:#eeeeee;
+     border-color:Aqua;
+     text-align: center;
+}
+.BigAdd
+{
+    font-family:本墨剪字;
+    font-size:25px;
+     border-width:15px;
+     padding:10px;
+     width:1000px;
+     background-color:#eeeeee;
+     border-color:Aqua;
+     text-align: center;
+}
+.BigAlert
+{
+    font-family:本墨剪字;
+}
